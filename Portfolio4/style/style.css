@@ -1,0 +1,161 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.container{
+    padding:0 4rem;
+}
+header{
+    padding: 20px 0;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+ 
+  
+    
+    
+}
+.header-all {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+}
+.header-all .left{
+    width: 10%;
+}
+.header-all .right{
+    width: 80%;
+    text-align: righ;
+    
+    
+    
+}
+.header-all .left img{
+    width: 100%;
+    
+ 
+}
+.header-all .right a{
+    color: #333;
+    font-size: 1rem;
+margin-left: 3rem;
+    text-decoration: none;
+    font-family: 'Nunito', sans-serif;
+  
+
+
+}
+#First{
+    background-image: url(https://getmasum.com/html-preview/nour/assets/img/slider/1.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 25rem 0;
+  
+ 
+}
+#First p{
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 2rem;
+}
+#First h1{
+    font-size: 55px;
+    color: #fff;
+    margin-bottom: 3rem;
+}
+#First a{
+    border: 2px solid #6168ff;
+    background-color: #6168ff;
+    padding: 13px 30px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: bold;
+    border-radius: 4px;
+    text-transform: uppercase;
+    transition: .4s;
+    text-decoration: none;
+  
+}
+#First a:hover{
+    background-color: transparent;
+    color: #6168ff;
+}
+#Second{
+    padding: 5rem 0;
+    
+}
+.container{
+    justify-content: right;
+   
+}
+#Second .container .left{
+    width: 50%;
+    
+    
+}
+.left .one  i{
+    font-size: 60px;
+    color: #6168ff;
+    
+}
+.left .one h3{
+    font-size: 20px;
+    color: #666;
+}
+.left .one p{
+    font-size: 15px;
+}
+.left .two i{
+    font-size: 60px;
+    color: #6168ff;
+}
+.left .two h3{
+    font-size: 20px;
+    color: #666;
+}
+.left .two p{
+    font-size: 15px;
+    color: #666;
+}
+.left .three i{
+    font-size: 60px;
+    color: #6168ff;
+}
+.left .three h3{
+    font-size: 20px;
+    color: #666;
+}
+.left .three p{
+    font-size: 15px;
+    color: #666;
+}
+.left .four i{
+    font-size: 60px;
+    color: #6168ff;
+}
+.left .four h3{
+    font-size: 20px;
+    color: #666;
+}
+.left .four p{
+    font-size: 15px;
+    color: #666;
+}
+
+
+
+
+
+
+#Second .container .right{
+    
+   
+}
+#Second .container .right img{
+    
+    
+}
